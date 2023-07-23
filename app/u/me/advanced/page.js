@@ -6,7 +6,7 @@ export default function Page() {
      <>
           <h1 className="text-2xl font-extrabold text-blue-800">Wlcome Advanced Page</h1>
           <ul>
-               <li><Link href="/../">Return Me</Link></li>
+               <li><Link href="../">Return Me</Link></li>
           </ul>
      </>
   );
